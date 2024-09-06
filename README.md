@@ -1,6 +1,6 @@
 # Overview
 
-Pulls the Salah Times from https://salaahtimes.co.za/ , change your location in the code sensor code to match the ID of your location from the web.
+Pulls the Salah Times from https://salaahtimes.co.za/ , change your TownID [here](https://github.com/RC1140/home-assistant-salah-times/blob/master/sensor.py#L47) to match the value on the website (e.g. 8 is for Johannesburg) 
 
 # Sample Card
 ```
