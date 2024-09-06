@@ -1,0 +1,11 @@
+{
+  "domain": "salah_times",
+  "name": "Salah Times",
+  "documentation": "https://github.com/rc1140/home-assistant-salah-times",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["requests", "beautifulsoup4==4.11.1"],
+  "version": "0.1.0",
+  "config_flow": false,
+  "iot_class": "cloud_polling"
+}
